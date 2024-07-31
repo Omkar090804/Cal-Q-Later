@@ -19,6 +19,9 @@
     <li><strong>Clear and Delete:</strong> Clear the display or delete the last character entered.</li>
 </ul>
 
+<h2>Live Demonstration</h2>
+<a href="https://omkar090804.github.io/Cal-Q-Later/">Visit Cal-Q-Later</a>
+
 <h2>Usage</h2>
 <p>To use the calculator, simply click on the buttons or use your keyboard to enter numbers and operations. Click the "=" button or press "Enter" to calculate the result.</p>
 
